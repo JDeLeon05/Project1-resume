@@ -1,0 +1,44 @@
+a {
+    background-color: beige; 
+    margin: 5px;
+    padding: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+img{
+    display: block;
+    margin: 0 auto;
+}
+section{
+    background-color: lightyellow;
+    border: solid 10px goldenrod;
+    margin: 25px;
+    padding: 12px;
+    padding-left: 20px;
+    padding-right: 60px;
+    padding-bottom: 100px;
+}
+p{
+    padding-right: 200px;  
+}
+h2{
+    text-align: center;
+}
+body{
+    background-color: #141414;
+    max-width: 700px;
+    min-width: 700px;
+    align-content: center;
+}
+
+
+.header-section{
+    background-color: palegoldenrod;
+    text-align: center; 
+    padding-bottom: 20px;
+}
+.images{
+    float: right;   
+    width: 30%;
+    margin-right: 20px;
+}
